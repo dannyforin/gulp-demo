@@ -1,0 +1,8 @@
+body {
+  background-color: skyblue;
+  background: url("../img/1.png") no-repeat; }
+  body a {
+    color: #000;
+    background-clip: border-box; }
+    body a ::-webkit-input-placeholder {
+      color: red; }
